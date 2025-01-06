@@ -96,7 +96,7 @@ Key findings from the FB15k-237 dataset:
 
 ## Visualization
 
-Visualize node embeddings and attention score distributions. Example PCA and t-SNE plots are included in the `/visualizations` folder.
+Visualize node embeddings and attention score distributions. Example PCA and t-SNE plots are included in the `/results` folder.
 
-![PCA and t-SNE](visualizations/wlpe_node_embeddings_pca_tsne_combined.png)
+![PCA and t-SNE](results/training_w_shortest_path_laplacian_combined/node_embeddings_pca_tsne_combined.png)
 

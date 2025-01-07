@@ -1,6 +1,9 @@
 # Graph Transformer for Link Prediction on FB15k-237 Dataset
 
-This repository implements a **Graph Transformer** model for link prediction tasks on the multi-relational FB15k-237 dataset. The project evaluates the impact of various positional encoding (PE) methods, including Laplacian PE (LapPE), Shortest-Path PE (SPPE), Random-Walk PE (RWPE), and Weisfeiler-Lehman PE (WL-PE).
+This repository implements a **Graph Transformer*** model for link prediction tasks on the multi-relational FB15k-237 dataset. The project evaluates the impact of various positional encoding (PE) methods, including Laplacian PE (LapPE), Shortest-Path PE (SPPE), Random-Walk PE (RWPE), and Weisfeiler-Lehman PE (WL-PE).
+
+*The transformer model's blocks are based on this notebook: [Graph Transformer Notebook](https://github.com/dmlc/dgl/blob/master/notebooks/sparse/graph_transformer.ipynb).
+
 
 ## Features
 
